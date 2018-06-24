@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                        <!--  this name space makes it unique to all courses -->
+<GetCourseDetailsResponse xmlns="http://drsolution.it/courses"
+                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                          xsi:schemaLocation="http://drsolution.it/courses course-details.xsd">
+  <CourseDetails>
+    <id>123</id>
+    <name>java course</name>
+    <description>learning java core</description>
+  </CourseDetails>
+</GetCourseDetailsResponse>

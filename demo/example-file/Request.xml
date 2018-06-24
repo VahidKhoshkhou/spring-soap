@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!--  this name space "xmlns" makes it unique to all courses,   and its schema for this {namespace} {location}-->
+<GetCourseDetailsRequest xmlns="http://drsolution.it/courses" 
+xsi:schemaLocation="http://drsolution.it/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>123</id>
+</GetCourseDetailsRequest>
